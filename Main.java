@@ -20,5 +20,7 @@ public class Main {
 
             i++;
         }
+
+        lista[9] = null; //Borrar un elemento
     }
 }
